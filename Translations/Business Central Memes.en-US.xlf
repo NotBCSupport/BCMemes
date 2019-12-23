@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Business Central Memes">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 748218360 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meme</source>
+          <target>Meme</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Meme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748218360 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <target>Id</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Meme - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748218360 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Meme - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748218360 - Field 4165234317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URL</source>
+          <target>URL</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Meme - Field Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748218360 - Field 3581037481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Height</source>
+          <target>Height</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Meme - Field Height - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748218360 - Field 613790498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Width</source>
+          <target>Width</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Meme - Field Width - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748218360 - Field 2059459786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Box Count</source>
+          <target>Box Count</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Meme - Field BoxCount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 748218360 - Field 320775665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image</source>
+          <target>Image</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Meme - Field Image - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4137836316 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Meme</source>
+          <target>My Meme</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS My Meme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4137836316 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <target>Entry No.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS My Meme - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4137836316 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS My Meme - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4137836316 - Field 1329138469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meme URL</source>
+          <target>Meme URL</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS My Meme - Field Meme Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4137836316 - Field 107804004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page URL</source>
+          <target>Page URL</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS My Meme - Field Page Url - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4137836316 - Field 320775665 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image</source>
+          <target>Image</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS My Meme - Field Image - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4137836316 - Field 3149056129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Template Name</source>
+          <target>Template Name</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS My Meme - Field Template Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3925519517 - Field 2104648824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary</source>
+          <target>Primary</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Setup - Field Primary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3925519517 - Field 2994142618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Username</source>
+          <target>Username</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Setup - Field Username - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3925519517 - Field 2575460289 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <target>Password</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Table NBCS Setup - Field Password - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 460377220 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create meme</source>
+          <target>Create meme</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Create Meme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 460377220 - Control 2558506169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name of the meme template</source>
+          <target>Name of the meme template</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Create Meme - Control TemplateName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 460377220 - Control 3876867255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name (Optional)</source>
+          <target>Name (Optional)</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Create Meme - Control MemeNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 460377220 - Control 3876867255 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name your meme to find it with this name in your "My Memes" collection. But you can skip this if you are to lazy.</source>
+          <target>Name your meme to find it with this name in your "My Memes" collection. But you can skip this if you are to lazy.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Create Meme - Control MemeNameField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 460377220 - Control 2729662352 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Top text</source>
+          <target>Top text</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Create Meme - Control TopTextField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 460377220 - Control 2729662352 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The top text of the meme. If your text is not placed where you wanted it, blame Imgflip :P</source>
+          <target>The top text of the meme. If your text is not placed where you wanted it, blame Imgflip :P</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Create Meme - Control TopTextField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 460377220 - Control 329814508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bottom text</source>
+          <target>Bottom text</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Create Meme - Control BottomTextField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 460377220 - Control 329814508 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bottom text of the meme. If your text is not placed where you wanted it, blame Imgflip :P</source>
+          <target>The bottom text of the meme. If your text is not placed where you wanted it, blame Imgflip :P</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Create Meme - Control BottomTextField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 460377220 - Action 797005574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Make Meme</source>
+          <target><Make Meme</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Create Meme - Action MakeMeme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 460377220 - Action 797005574 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Makes the Meme</source>
+          <target>Makes the Meme</>target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Create Meme - Action MakeMeme - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3452703571 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Memebox</source>
+          <target>Memebox</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Meme FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3452703571 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meme</source>
+          <target>Meme</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Meme FactBox - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3452703571 - Control 320775665 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mee Mee</source>
+          <target>Mee Mee</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Meme FactBox - Control Image - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available Memes</source>
+          <target>Available Memes</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Memes</source>
+          <target>Memes</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Control 320775665 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>String.Empty()</source>
+          <target>String.Empty()</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Control Image - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Control 2686962215 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the id of the meme template in Imgflip</source>
+          <target>This is the id of the meme template in Imgflip</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Control id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is the name of the meme template</source>
+          <target>This is the name of the meme template</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Control 2059459786 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You don't have to care about this because i didn't implement more than two textes per meme</source>
+          <target>You don't have to care about this because i didn't implement more than two textes per meme</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Control BoxCount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Control 3581037481 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I don't want to write more tooltps..</source>
+          <target>I don't want to write more tooltps..</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Control Height - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Control 613790498 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>really this is the last one!</source>
+          <target>really this is the last one!</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Control Width - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Action 3031219967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reload available memes</source>
+          <target>Reload available memes</target>
+          <note from="XLIFF Sync" annotates="general" priority="1">Source text has changed. Please review the translation.</note>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Action GetMemes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Action 3031219967 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reloads the available memes</source>
+          <target>Reloads the available memes</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Action GetMemes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Action 2032626796 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caption this meme</source>
+          <target>Caption this meme</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Action CaptionThisMeme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1948433305 - Action 2032626796 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Caption this meme, Dude!</source>
+          <target>Caption this meme, Dude!</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Memes - Action CaptionThisMeme - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2799660463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Memebox</source>
+          <target>Memebox</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Meme FactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2799660463 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meme</source>
+          <target>Meme</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Meme FactBox - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2799660463 - Control 320775665 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows the Image</source>
+          <target>Shows the Image</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Meme FactBox - Control Image - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My Memes</source>
+          <target>My Memes</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Control 320775665 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Realy? Why do you need a tooltip this is obviously your meme!</source>
+          <target>Realy? Why do you need a tooltip this is obviously your meme!</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Control Image - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary key of the table</source>
+          <target>Primary key of the table</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Control Entry No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name of the meme (you defined this ;-) )</source>
+          <target>Name of the meme (you defined this ;-) )</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Control 3149056129 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The name of the meme template used to create this meme</source>
+          <target>The name of the meme template used to create this meme</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Control Template Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Action 348406320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show my Image</source>
+          <target>Show my Image</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Action ShowImage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Action 348406320 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Why not show your image. Do whatever you want, show it, save it.. I think thats it.</source>
+          <target>Why not show your image. Do whatever you want, show it, save it.. I think thats it.</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Action ShowImage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Action 936502687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show on Imgflip</source>
+          <target>Show on Imgflip</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Action ShowImageOnImgflip - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Action 936502687 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Let's see how famous your meme is on Imgflip</source>
+          <target>Let's see how famous your meme is on Imgflip</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Action ShowImageOnImgflip - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Action 3475623724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create new Meme</source>
+          <target>Create new Meme</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Action CreateNewMeme - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2632945693 - Action 3475623724 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>I belive in you. You can do this. Just do it!</source>
+          <target>I belive in you. You can do this. Just do it!</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS My Memes - Action CreateNewMeme - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 614673313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Meme Setup</source>
+          <target>Meme Setup</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 614673313 - Control 2994142618 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Username of your Imgflip Account</source>
+          <target>Username of your Imgflip Account</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Setup Card - Control Username - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 614673313 - Control 2575460289 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Password of your Imgflip Account</source>
+          <target>Password of your Imgflip Account</target>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page NBCS Setup Card - Control Password - Property ToolTip</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
