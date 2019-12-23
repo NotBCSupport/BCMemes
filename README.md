@@ -101,5 +101,5 @@ We will do what we want.
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE) file for details
 You can do what ever you want with it but we don't take any warranty. We are explicitly not responsible for people beeing upset because you sent them shitty memes!
